@@ -953,14 +953,14 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Allah Swt
+  *≻* Emak gw
+  *≻* Bapak gw
+  *≻* Pacar gw
+  *≻* Temen gw
+  *≻* Guru gw
+  *≻* Gw sendiri yg pinter ini
+  *≻* orang temper nyolong sc
+  *≻* kang recode
 `
 }
